@@ -1,5 +1,9 @@
 # books
 
+![金融炒股量化期货交流群群聊二维码](https://github.com/user-attachments/assets/27a230bd-4ae1-4472-a2b4-821f72117d6a)
+
+## 仅供学习，请勿用于商业活动
+
 加群，此群包含
 
 证券分析（第6版下）格雷厄姆
